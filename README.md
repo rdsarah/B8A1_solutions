@@ -4,11 +4,11 @@ This repository contains my solutions Assignment 1. The assignment focuses on Ty
 
 # Files
 
-* solutions.ts: Solutions to the eight TypeScript programming problems.
+* ** solutions.ts: Solutions to the eight TypeScript programming problems.
 
-* type-vs-interface.md: A comparison of type aliases and interfaces in TypeScript.
+* ** type-vs-interface.md: A comparison of type aliases and interfaces in TypeScript.
 
-* typescript-access-modifiers.md: An explanation of access modifiers in TypeScript OOP.
+* ** typescript-access-modifiers.md: An explanation of access modifiers in TypeScript OOP.
 
 # Blog Posts
 
